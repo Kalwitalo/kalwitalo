@@ -6,8 +6,8 @@ I'm Kalwitalo and I know it's a strange name.
 
 Currently I'm a Software Developer at Techlead. I've graduation in Computer Engineering and I've been working in tech since 2010.
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/loiane?style=social)](https://twitter.com/kalwitalo)
-[![Linkedin: loiane](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kalwitalo/)](https://www.linkedin.com/in/kalwitalo/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/kalwitalo?style=social)](https://twitter.com/kalwitalo)
+[![Linkedin: kalwitalo](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kalwitalo/)](https://www.linkedin.com/in/kalwitalo/)
 
 ## Some tech and tools that I study and work with:
 
