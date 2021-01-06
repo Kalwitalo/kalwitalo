@@ -21,3 +21,4 @@ Currently I'm a Software Developer at Techlead. I've graduation in Computer Engi
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white)
+![OpenShift](https://img.shields.io/badge/-OpenShift-white?style=flat-square&logo=Red%20Hat%20Open%20Shift&logoColor=red)
