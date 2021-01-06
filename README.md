@@ -6,12 +6,9 @@ I'm Kalwitalo and I know it's a strange name.
 
 Currently I'm a Software Developer at Techlead. I've graduation in Computer Engineering and I've been working in tech since 2010.
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/kalwitalo?style=social)](https://twitter.com/kalwitalo)
-[![Linkedin: kalwitalo](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kalwitalo/)](https://www.linkedin.com/in/kalwitalo/)
-
-[![Twitter Badge](https://img.shields.io/badge/-@dieegosf-6633cc?style=flat-square&labelColor=50d45e&logo=twitter&logoColor=white&link=https://twitter.com/kalwitalo)](https://twitter.com/kalwitalo) 
-[![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandes-50d45e?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kalwitalo/)](https://www.linkedin.com/in/kalwitalo/) 
-[![Gmail Badge](https://img.shields.io/badge/-diego.schell.f@gmail.com-50d45e?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kalwitalo.ibiapina@gmail.com)](mailto:kalwitalo.ibiapina@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@kalwitalo-3fb950?style=flat-square&labelColor=3fb950&logo=twitter&logoColor=white&link=https://twitter.com/kalwitalo)](https://twitter.com/kalwitalo) 
+[![Linkedin Badge](https://img.shields.io/badge/-Kalwitalo%20Ibiapina-3fb950?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kalwitalo/)](https://www.linkedin.com/in/kalwitalo/) 
+[![Gmail Badge](https://img.shields.io/badge/-kalwitalo.ibiapina@gmail.com-3fb950?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kalwitalo.ibiapina@gmail.com)](mailto:kalwitalo.ibiapina@gmail.com)
 
 ## Some tech and tools that I study and work with:
 
