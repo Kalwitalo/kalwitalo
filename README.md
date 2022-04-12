@@ -8,7 +8,7 @@ Currently I'm a Software Developer at Pismo. I've graduation in Computer Enginee
 
 [![Twitter Badge](https://img.shields.io/badge/-@kalwitalo-3fb950?style=flat-square&labelColor=3fb950&logo=twitter&logoColor=white&link=https://twitter.com/kalwitalo)](https://twitter.com/kalwitalo) 
 [![Linkedin Badge](https://img.shields.io/badge/-Kalwitalo%20Ibiapina-3fb950?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kalwitalo/)](https://www.linkedin.com/in/kalwitalo/) 
-[![Gmail Badge](https://img.shields.io/badge/-kalwitalo.ibiapina@gmail.com-3fb950?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kalwitalo.ibiapina@gmail.com)](mailto:kalwitalo.ibiapina@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-kalwitaloibiapina@gmail.com-3fb950?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kalwitaloibiapina@gmail.com)](mailto:kalwitaloibiapina@gmail.com)
 
 ## Some tech and tools that I study and work with:
 
